@@ -97,8 +97,6 @@ while nclass != cs.END_SIM:
 
 # --- output    
 print("\n --- meanNbOfUnits = %f\n" % meanNbOfUnits)
-print("\n --- meanDelay = %f\n" % meanDelay)
-print("\n --- meanJitter= %f\n" % meanJitter)
 
         
     
